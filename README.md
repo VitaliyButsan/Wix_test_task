@@ -1,5 +1,4 @@
 # Wix_test_task
-Solve task from Wix company
 
 
 You have a long piece of text, and you want to send it to your friend as a series of SMS messages. Your text consists of English letters (uppercase and lowercase) and spaces. The text doesn't contain any leading spaces at the beginning or trailing spaces at the end. There are no two consecutive spaces in the text.
